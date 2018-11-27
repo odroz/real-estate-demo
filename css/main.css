@@ -284,9 +284,9 @@ header nav .login_btn:hover{
    color: #95badf;  
 } 
 
-.search #submit_search{
+/*.search #submit_search{
     display: none;
-}
+}*/
 
 .search .advanced_search_icon{
     display: block;
